@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alexander-a-a
+- 👋 Hi, I’m @Alex
 - 👀 I’m interested in Backend and Frontend
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 📫 How to reach me ...
