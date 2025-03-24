@@ -2,7 +2,6 @@
 - 👀 I’m interested in Backend and Frontend
 - 🌱 I’m currently studying Backend in Noroff
 - 📫 How to reach me ...
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I like cats
 
 <!---
