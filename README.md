@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex
 - 👀 I’m interested in Backend and Frontend
-- 🌱 I’m currently studying Backend in Noroff
+- 🌱 I’m currently studying Backend at Noroff
 - ⚡ Fun fact: I like cats
 
 <!---
