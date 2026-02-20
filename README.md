@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Studying **Backend Development** at **Noroff**
+- 🎓 Finished **Backend Development** at **Noroff**
 - 💻 Interested in **Backend**
 - 🧱 Currently building REST APIs and backend services with **Node.js**, **Express**, and **MySQL/Sequelize**
 - 🧪 Learning testing, documentation, and deployment using **Jest**, **Postman**, and **Docker/Render**
